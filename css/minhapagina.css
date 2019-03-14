@@ -1,0 +1,10 @@
+footer{
+	border: 1px solid black;
+	text-align: center;	
+	margin-top: 40px;
+	width: 100%
+}
+
+span{
+	font-size: 20px;
+}
